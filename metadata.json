@@ -16,5 +16,7 @@
         "Phasic pain stimulation",
         "Non-painful electrical stimulation"
     ],
-    "unmapped_pmids": []
+    "unmapped_pmids": [
+        "16861005"
+    ]
 }
